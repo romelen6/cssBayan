@@ -39,7 +39,6 @@ h1 {
 
 .accordion-item-trigger {
     display: block;
-    /* font-size: 100%; */
     border-top: 1px solid #c2c2c2;
     cursor: pointer;
 }
@@ -66,13 +65,13 @@ h1 {
 
 .accordion-item-content:hover {
     transform: scale(1.3, 1.3);
-    transition: 2s;
+    transition: 1s;
 }
 
 .icon:hover {
     color: black;
     transform: rotate(45deg);
-    transition: 1s;
+    transition: 0.5s;
 }
 
 
